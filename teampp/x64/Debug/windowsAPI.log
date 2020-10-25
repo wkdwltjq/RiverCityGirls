@@ -1,0 +1,5 @@
+﻿  stage01.cpp
+c:\users\wltjq\desktop\mintchoco-master_return\teampp\stage01.cpp(75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wltjq\desktop\mintchoco-master_return\teampp\stage01.cpp(85): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wltjq\desktop\mintchoco-master_return\teampp\stage01.cpp(90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  windowsAPI.vcxproj -> C:\Users\wltjq\Desktop\mintchoco-master_return\teampp\x64\Debug\windowsAPI.exe
